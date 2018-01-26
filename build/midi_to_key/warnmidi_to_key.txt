@@ -1,0 +1,21 @@
+missing module named resource - imported by posix, C:\fabricInput\midi_to_key.py
+missing module named posix - imported by os, C:\fabricInput\midi_to_key.py
+missing module named _posixsubprocess - imported by subprocess, C:\fabricInput\midi_to_key.py
+missing module named 'org.python' - imported by pickle, C:\fabricInput\midi_to_key.py, xml.sax
+missing module named ce - imported by os, C:\fabricInput\midi_to_key.py
+missing module named readline - imported by cmd, code, pdb, C:\fabricInput\midi_to_key.py
+excluded module named _frozen_importlib - imported by importlib, C:\fabricInput\midi_to_key.py
+missing module named _winreg - imported by platform, C:\fabricInput\midi_to_key.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\fabricInput\midi_to_key.py
+missing module named 'java.lang' - imported by platform, C:\fabricInput\midi_to_key.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\fabricInput\midi_to_key.py
+missing module named termios - imported by tty, C:\fabricInput\midi_to_key.py, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\fabricInput\midi_to_key.py
+missing module named grp - imported by tarfile, shutil, C:\fabricInput\midi_to_key.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, C:\fabricInput\midi_to_key.py, getpass
+missing module named org - imported by copy, C:\fabricInput\midi_to_key.py
+missing module named Queue - imported by keyboard, keyboard._nixcommon, keyboard._generic, mido.backends._parser_queue
+missing module named AppKit - imported by keyboard._darwinkeyboard
+missing module named Quartz - imported by keyboard._darwinkeyboard
+missing module named fcntl - imported by keyboard._nixcommon
