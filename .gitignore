@@ -2,7 +2,7 @@
 
 midi_key_v1.2.py
 midi_key_v1.3.py 
-midi_to_key
+midi_to_key.py
 
 #spec files from pyinstaller
 midi_key_v1.4.spec
