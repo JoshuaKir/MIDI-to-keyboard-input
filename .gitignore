@@ -1,0 +1,14 @@
+#previous versions
+
+midi_key_v1.2.py
+midi_key_v1.3.py 
+midi_to_key
+
+#spec files from pyinstaller
+midi_key_v1.4.spec
+midi_to_key.spec
+
+#Extra Pyinstaller stuff
+dist/midi_to_key/
+build/
+__pycache__/
